@@ -1,7 +1,7 @@
 # 🧠 Social Media Addiction Analysis
 
-![Dashboard Screenshot](./<img width="1488" height="656" alt="Addiction_Dashboard_Image" src="https://github.com/user-attachments/assets/a08933e3-6389-4402-848f-da472b75f7fc" />
-)
+![Dashboard Screenshot]<img width="1488" height="656" alt="Addiction_Dashboard_Image" src="https://github.com/user-attachments/assets/a08933e3-6389-4402-848f-da472b75f7fc" />
+
 
 ## 📊 Overview
 
